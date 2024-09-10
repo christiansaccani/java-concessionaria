@@ -1,0 +1,10 @@
+Honda,Accord,Compatta
+Honda,Civic,Compatta
+Honda,Pilot,Compatta
+Chevrolet,Impala,Sedan
+Chevrolet,Malibu,Sedan
+Ford,F-150,Sportiva
+Ford,Mustang,Sportiva
+Toyota,Camry,Utilitaria
+Toyota,Corolla,Utilitaria
+Toyota,RAV4,Utilitaria
